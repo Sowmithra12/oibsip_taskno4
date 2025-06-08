@@ -2,7 +2,7 @@
 
 This is a simple **Login and Registration system** built using **HTML, CSS, and JavaScript**. It supports basic features like user registration, login validation, secured page access, and client-side user data storage using `localStorage`.
 
----
+---http://127.0.0.1:5500/index.html
 
 ## 🚀 Features
 
